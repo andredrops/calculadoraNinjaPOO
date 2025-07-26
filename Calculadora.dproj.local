@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/31 19:07:10.000.719,=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2023/12/31 19:08:20.000.656,=Z:\Aulas\Calculadora_Ninja_Fontes\Unit2.pas</Transaction>
+    <Transaction>2023/12/31 19:08:33.000.828,=Z:\Aulas\Calculadora_Ninja_Fontes\Unit2.pas</Transaction>
+    <Transaction>2023/12/31 19:08:48.000.609,Z:\Aulas\Calculadora_Ninja_Fontes\uFormTeste.dfm=Z:\Aulas\Calculadora_Ninja_Fontes\Unit2.dfm</Transaction>
+    <Transaction>2023/12/31 19:08:48.000.609,Z:\Aulas\Calculadora_Ninja_Fontes\uFormTeste.pas=Z:\Aulas\Calculadora_Ninja_Fontes\Unit2.pas</Transaction>
+    <Transaction>2023/12/31 19:09:18.000.359,Z:\Aulas\Calculadora_Ninja_Fontes\uFormTeste.pas=</Transaction>
+    <Transaction>2023/12/31 19:13:38.000.219,=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2023/12/31 19:13:49.000.953,Z:\Aulas\Calculadora_Ninja_Fontes\uClasseModelo.pas=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/04 07:53:01.000.898,Z:\Aulas\Calculadora_Ninja_Fontes\uOperadorSomar.pas=</Transaction>
+    <Transaction>2024/08/04 07:53:02.000.054,Z:\Aulas\Calculadora_Ninja_Fontes\uCalculadoraIntf.pas=</Transaction>
+    <Transaction>2024/08/04 07:53:02.000.039,Z:\Aulas\Calculadora_Ninja_Fontes\uClasseModelo.pas=</Transaction>
+    <Transaction>2024/08/04 07:53:02.000.085,Z:\Aulas\Calculadora_Ninja_Fontes\uCalculadoraImpl.pas=</Transaction>
+    <Transaction>2024/08/05 07:46:47.361,=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 07:47:40.064,Z:\Aulas\Calculadora_Ninja_Fontes\uCalculadora.pas=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 09:38:00.626,=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 09:38:35.580,Z:\Aulas\Calculadora_Ninja_Fontes\uOperacaoIntf.pas=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 09:43:13.455,=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 09:44:13.783,Z:\Aulas\Calculadora_Ninja_Fontes\uOperacaoSomarImpl.pas=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 10:59:58.330,=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 11:01:26.533,Z:\Aulas\Calculadora_Ninja_Fontes\uOperacaoSubtrairImpl.pas=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 11:01:32.595,=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 11:08:08.392,Z:\Aulas\Calculadora_Ninja_Fontes\uOperacaoDividirImpl.pas=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 11:08:13.471,=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 11:08:58.377,Z:\Aulas\Calculadora_Ninja_Fontes\uOperacaoMultiplicarImpl.pas=Z:\Aulas\Calculadora_Ninja_Fontes\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
